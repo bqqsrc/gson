@@ -1,0 +1,4 @@
+.DS_Store
+gson/testdata/decode.option.gson
+gson/testdata/callback.option.gson
+gson/testdata/conf.option.gson
