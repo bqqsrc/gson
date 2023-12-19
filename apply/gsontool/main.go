@@ -57,6 +57,7 @@ func main() {
 	}
 
 	if err {
+		fmt.Println("Error happen")
 		os.Exit(1)
 	}
 	originArr := strings.Split(args, ":")
@@ -82,6 +83,7 @@ func main() {
 	}
 	if e := gson.DecodeData(data, keyEventCallback, nil, nil); e != nil {
 		fmt.Printf("解析gson文件出错：%s\n", e)
+		fmt.Println("Error happen")
 		os.Exit(1)
 	}
 
