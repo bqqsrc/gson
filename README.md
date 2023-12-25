@@ -19,6 +19,6 @@ gson保留以下6个字符作为构造字符，以下是gson的构造字符一�
 |#|注释符|添加一段注释|```prefix: /Users/goper/conf/goper.gs #goper的配置文件路径```|
 
 
-更多详解，可查看[这篇文档]()
+更多详解，可查看[这篇文档](https://github.com/bqqsrc/documents/blob/main/2.gson/1.Gson%E4%BD%BF%E7%94%A8%E8%A7%84%E8%8C%83.md)
 
 ---
